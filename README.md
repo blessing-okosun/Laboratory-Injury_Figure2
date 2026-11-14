@@ -21,7 +21,7 @@ install.packages(c("readr", "dplyr", "tidyr", "ggplot2", "ragg"))
 source("figure2.R")
 ```
 
-Three 600-dpi PNGs are written to `figures/`, which the script creates. The printed totals should read 1405 / 1207 / 5334 / 2, then 361 / 781 / 25 / 8, with panel C at N = 486 and 64.6% flagged.
+Three 1000-dpi PNGs are written to `figures/`, which the script creates. The printed totals should read 1405 / 1207 / 5334 / 2, then 361 / 781 / 25 / 8, with panel C at N = 486 and 64.6% flagged.
 
 **Font.** The journal specifies Palatino. The script takes the first of `Palatino`, `Palatino Linotype`, `Palatino LT Std`, `URW Palladio L`, `P052`, `TeX Gyre Pagella` that is installed, and warns if none is. macOS ships Palatino and Windows ships Palatino Linotype; on Linux install [TeX Gyre Pagella](https://ctan.org/pkg/tex-gyre-pagella), a free metric-compatible clone (`apt install texlive-fonts-extra` or `fonts-texgyre`).
 
