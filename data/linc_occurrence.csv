@@ -1,0 +1,84 @@
+year,occurrence_type,citations
+2016,Animal-related,7
+2016,Equipment-related,1
+2016,Loss of containment,2
+2016,Other,7
+2016,PPE-related,10
+2016,Procedure-related,13
+2016,Sharps-related,14
+2016,Spill,5
+2016,Unknown,3
+2017,Animal-related,1
+2017,Equipment-related,1
+2017,Loss of containment,4
+2017,Other,9
+2017,PPE-related,6
+2017,Procedure-related,12
+2017,Sharps-related,13
+2017,Spill,8
+2017,Unknown,2
+2018,Animal-related,8
+2018,Equipment-related,8
+2018,Loss of containment,8
+2018,Other,11
+2018,PPE-related,12
+2018,Procedure-related,27
+2018,Sharps-related,28
+2018,Spill,14
+2018,Unknown,2
+2019,Animal-related,1
+2019,Equipment-related,6
+2019,Loss of containment,3
+2019,Other,12
+2019,PPE-related,8
+2019,Procedure-related,18
+2019,Sharps-related,16
+2019,Spill,11
+2019,Unknown,4
+2020,Animal-related,0
+2020,Equipment-related,6
+2020,Loss of containment,1
+2020,Other,5
+2020,PPE-related,8
+2020,Procedure-related,16
+2020,Sharps-related,13
+2020,Spill,6
+2020,Unknown,0
+2021,Animal-related,8
+2021,Equipment-related,3
+2021,Loss of containment,2
+2021,Other,6
+2021,PPE-related,10
+2021,Procedure-related,10
+2021,Sharps-related,12
+2021,Spill,2
+2021,Unknown,3
+2022,Animal-related,5
+2022,Equipment-related,1
+2022,Loss of containment,2
+2022,Other,6
+2022,PPE-related,8
+2022,Procedure-related,15
+2022,Sharps-related,15
+2022,Spill,5
+2022,Unknown,3
+2023,Animal-related,5
+2023,Equipment-related,1
+2023,Insect-related,0
+2023,Loss of containment,3
+2023,Other,11
+2023,PPE-related,7
+2023,Procedure-related,16
+2023,Sharps-related,22
+2023,Spill,13
+2023,Unknown,3
+2024,Animal-related,0
+2024,Equipment-related,8
+2024,Insect-related,0
+2024,Loss of containment,9
+2024,Other,11
+2024,PPE-related,16
+2024,Procedure-related,22
+2024,Sharps-related,17
+2024,Spill,16
+2024,Unknown,4

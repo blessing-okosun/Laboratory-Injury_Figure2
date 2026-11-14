@@ -1,0 +1,11 @@
+occurrence_type,behavior_dependent,definition,control_failure_types,plot_order
+Sharps-related,Yes,"Needlestick, scalpel or blade cut, or other sharps injury such as broken glass",Not codable from the definition (describes the event),1
+Procedure-related,Yes,"Written procedures not followed, inadequate, absent, or incorrect for the activity",Bypassed; inadequate; absent; incorrectly selected,2
+PPE-related,Yes,"PPE inadequate for the activity, or PPE that failed",Incorrectly selected; inadequate,3
+Animal-related,Yes,"Bites, scratches, or exposures caused by animal behaviour",Not codable from the definition,4
+Spill,No,Unintended release of an agent from its container,Not codable from the definition,5
+Equipment-related,No,"Equipment failure, wrong equipment for the activity, or misuse",Poorly maintained; incorrectly selected; bypassed,6
+Loss of containment,No,Malfunction or misuse of containment devices or equipment,Poorly maintained; bypassed,7
+Other,No,Not defined,Not codable,8
+Unknown,No,Not defined,Not codable,9
+Insect-related,No,Insect bites (category appears from the 2023 report onward; 0 citations so far),Not coded in the manuscript,10

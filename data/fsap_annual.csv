@@ -1,0 +1,9 @@
+year,release_reports,registered,non_registered,minimal_risk,occ_exposure,no_ohs_needed,releases_with_ohs,individuals_ohs,ind_registered,ind_non_registered,illnesses,illness_agent,source_url
+2018,193,66,127,8,185,12,173,895,121,774,0,,https://selectagents.gov/resources/publications/docs/FSAP_Annual_Report_2018_508.pdf
+2019,219,92,127,24,195,18,177,1076,166,910,0,,https://stacks.cdc.gov/view/cdc/121220/cdc_121220_DS1.pdf
+2020,158,69,89,24,134,12,122,483,68,415,1,Coxiella burnetii,https://www.selectagents.gov/resources/publications/docs/FSAP_Annual_Report_2020_508.pdf
+2021,177,71,106,27,150,11,139,576,52,524,0,,https://selectagents.gov/resources/publications/docs/FSAP_Annual_Report_2021_508.pdf
+2022,170,63,107,27,143,10,133,595,61,534,0,,https://www.selectagents.gov/resources/publications/docs/FSAP_Annual_Report_2022_508.pdf
+2023,215,87,128,46,169,13,156,764,52,712,1,Francisella tularensis,https://www.selectagents.gov/resources/publications/docs/FSAP-Annual-Report-2023_508.pdf
+2024,273,83,190,42,231,7,224,945,69,876,0,,https://www.selectagents.gov/resources/publications/docs/2024-FSAP-Annual-Report_508.pdf
+2025,165,83,82,31,134,10,124,506,88,418,0,,https://www.selectagents.gov/resources/publications/docs/FSAP-Annual-Report-2025_508.pdf
